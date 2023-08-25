@@ -1,11 +1,7 @@
 # Data Analysis and Linear Regression Model - Zoo Visit Spending
 
 ## Authors
-- [Varun Harish Kapuria](#https://github.com/varunkapuria96)
-
-## Course Information
-- Course: MIS 545 Section 1
-- Lab Assignment: Lab05Group2AgarwalaKapuria.R
+- [Varun Harish Kapuria](https://github.com/varunkapuria96)
 
 ## Overview
 This R code provides an in-depth analysis of the `ZooVisitSpending.csv` dataset provided in MIS545. The code conducts various data preprocessing tasks and generates a multiple linear regression model to understand the factors affecting zoo visit spending.
