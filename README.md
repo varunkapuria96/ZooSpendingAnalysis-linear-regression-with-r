@@ -32,8 +32,6 @@ git clone https://github.com/yourusername/your-repo-name.git
 setwd("C:/your-working-directory")
 ```
 
-- Open the R script Lab05Group2AgarwalaKapuria.R in your R environment.
-
 - Run the script to execute the data preprocessing tasks and generate the linear regression model.
 
 ## Code Description
