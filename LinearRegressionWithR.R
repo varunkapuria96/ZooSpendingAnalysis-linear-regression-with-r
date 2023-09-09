@@ -1,6 +1,3 @@
-# Sanchit Agarwala and Varun Harish Kapuria
-# MIS 545 Section 1
-# Lab05Group2AgarwalaKapuria.R
 # This code is meant to provide an in-depth analysis on the zooSpending,scv
 # dataset provided in MIS545 to conduct some data preprocessing tasks,
 # and generating a multiple linear regression model.
